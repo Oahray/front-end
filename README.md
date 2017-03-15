@@ -1,2 +1,3 @@
-# front-end
-Solution to the Front-end exercise for Home Day 3 of  the Andela Bootcamp.
+# GITHUB_PAGES
+Repository containing hosted Front-end project for Home-day.
+To view, go to https://oahray.github.io/github_pages/

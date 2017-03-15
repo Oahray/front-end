@@ -181,7 +181,15 @@ p {
 .fourth {
   width: 25%;
 }
-  
+
+a {
+  text-decoration: none;
+}
+
+p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
 
 #copyright {
   width: 20%;
@@ -213,7 +221,7 @@ p {
   }
   
   .full-width {
-    width: 80% !important;
+    width: 100% !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
